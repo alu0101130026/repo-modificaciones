@@ -1,7 +1,7 @@
 {
-  "name": "ull-esit-inf-dsi-23-24-prct06-generics-solid-alu0101130026",
+  "name": "repo-modificaciones",
   "version": "1.0.0",
-  "description": "Práctica 6",
+  "description": "Repositorio para las sesiones PE",
   "main": "index.js",
   "scripts": {
     "start": "tsc-watch --onSuccess \"node dist/pe101/main.js\" ",
@@ -25,7 +25,8 @@
     "prettier": "^3.2.4",
     "ts-node": "^10.9.2",
     "tsc-watch": "^6.0.4",
-    "typedoc": "^0.25.8"
+    "typedoc": "^0.25.8",
+    "typescript": "^5.3.3"
   },
   "dependencies": {
     "@types/node": "^20.11.20"
