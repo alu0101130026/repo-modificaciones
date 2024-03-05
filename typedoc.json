@@ -1,0 +1,15 @@
+{
+  "entryPoints": [
+    "./src/pe101/main.ts",
+    "./src/ejercicio-1/box.ts",
+    "./src/ejercicio-1/boxmanager.ts",
+    "./src/ejercicio-1/main.ts",
+    "./src/ejercicio-1/enser.ts",
+    "./src/ejercicio-2/bill.ts",
+    "./src/ejercicio-2/format.ts",
+    "./src/ejercicio-2/htmlbill.ts",
+    "./src/ejercicio-2/pdfbill.ts"
+  ],
+
+  "out": "./docs"
+}
