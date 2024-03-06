@@ -4,7 +4,7 @@
   "description": "Repositorio para las sesiones PE",
   "main": "index.js",
   "scripts": {
-    "start": "tsc-watch --onSuccess \"node dist/pe101/main.js\" ",
+    "start": "tsc-watch --onSuccess \"node dist/semana7/adapter.js\" ",
     "doc": "typedoc",
     "coverage": "nyc npm test && nyc report --reporter=lcov",
     "test": "mocha"
