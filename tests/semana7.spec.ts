@@ -1,8 +1,8 @@
 import { expect } from "chai";
 import "mocha";
-import { Adapter } from "../src/semana7/adapter";
-import { Complex } from "../src/semana7/complex";
-import { Rational } from "../src/semana7/rational";
+import { Adapter } from "../src/semana7/adapter.js";
+import { Complex } from "../src/semana7/complex.js";
+import { Rational } from "../src/semana7/rational.js";
 
 describe("Adapter", () => {
   it("should add two complex numbers", () => {
