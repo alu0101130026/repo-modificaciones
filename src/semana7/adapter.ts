@@ -1,6 +1,6 @@
-import { Arithmeticable } from "./arithmeticable";
-import { Complex } from "./complex";
-import { Rational } from "./rational";
+import { Arithmeticable } from "./arithmeticable.js";
+import { Complex } from "./complex.js";
+import { Rational } from "./rational.js";
 
 /**
  * Clase Adapter que sirve para operar con complejos y racionales

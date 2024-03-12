@@ -1,4 +1,4 @@
-import { Arithmeticable } from "./arithmeticable";
+import { Arithmeticable } from "./arithmeticable.js";
 
 /**
  * Clase que trata los números racionales que implementa la interfaz Arithmeticable
