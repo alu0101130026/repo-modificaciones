@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Repositorio para las sesiones PE",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start": "tsc-watch --onSuccess \"node dist/semana7/adapter.js\" ",
+    "start": "tsc-watch --onSuccess \"node dist/semana8/index.js\" ",
     "doc": "typedoc",
     "coverage": "nyc npm test && nyc report --reporter=lcov",
     "test": "mocha"
@@ -17,6 +18,7 @@
     "@types/mocha": "^10.0.6",
     "@typescript-eslint/eslint-plugin": "^6.20.0",
     "@typescript-eslint/parser": "^6.20.0",
+    "c8": "^9.1.0",
     "chai": "^4.4.1",
     "eslint": "^8.56.0",
     "eslint-config-prettier": "^9.1.0",
