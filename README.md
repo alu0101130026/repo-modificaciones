@@ -1,6 +1,6 @@
 [![Coverage Status](https://coveralls.io/repos/github/alu0101130026/repo-modificaciones/badge.svg?branch=main)](https://coveralls.io/github/alu0101130026/repo-modificaciones?branch=main)
 
-[![Tests](https://github.com/alu0101130026/repo-modificaciones/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/alu0101130026/repo-modificaciones/actions/workflows/node.js.yml)
+[![Tests](https://github.com/alu0101130026/repo-modificaciones/actions/workflows/node.js.yml/badge.svg)](https://github.com/alu0101130026/repo-modificaciones/actions/workflows/node.js.yml)
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=alu0101130026_repo-modificaciones&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=alu0101130026_repo-modificaciones)
 
