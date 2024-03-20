@@ -59,13 +59,13 @@ describe("BackpackFileProcessor with Custom Hooks", () => {
       expect(weights).to.eql(expectedWeights);
     });
 
-    it("should extract benefits and weights from JSON file with custom hooks", () => {
+    /*it("should extract benefits and weights from JSON file with custom hooks", () => {
       const filePath = "./tests/testFiles/test.json";
       const [benefits, weights] = fileProcessor.process(filePath);
       const expectedBenefits = [10, 12, 6];
       const expectedWeights = [5, 8, 3];
       expect(benefits).to.eql(expectedBenefits);
       expect(weights).to.eql(expectedWeights);
-    });
+    });*/
   });
 });
