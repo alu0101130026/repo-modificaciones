@@ -10,6 +10,8 @@ El ejercicio de esta semana consta de escribir un adaptador que opere los racion
 
 ### Ejercicio semana 8
 
-El ejercicio de esta semana consiste en implementar un sistema de notificación de eventos genéricos siguiendo el patrón Observer. 
+El ejercicio de esta semana consiste en implementar un sistema de notificación de eventos genéricos siguiendo el patrón Observer.
 
 ### Ejercicio semana 9
+
+El ejercicio de esta semana consiste en desarrollar, usando el Template Method, un programa que lea archivos CSV y JSON con instancias de problema de la mochila.
