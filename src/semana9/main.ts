@@ -83,7 +83,7 @@ export class BackpackFileProcessor {
 /**
  * Vamos ahora a poner un ejemplo
  */
-const filePath = "./src/semana9/datos.json"; 
+const filePath = "./src/semana9/datos.json";
 
 export class CustomHooks implements FileProcessorHooks {
   preProcess(fileContent: string): string {

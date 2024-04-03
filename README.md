@@ -15,3 +15,7 @@ El ejercicio de esta semana consiste en implementar un sistema de notificación 
 ### Ejercicio semana 9
 
 El ejercicio de esta semana consiste en desarrollar, usando el Template Method, un programa que lea archivos CSV y JSON con instancias de problema de la mochila.
+
+### Ejercicio semana 10
+
+El ejercicio de esta semana consiste en desarrollar una aplicación cliente-servidor en la cual se establezca una conexión y el cliente dé por argumentos un archivo y el cliente responda con el número de líneas, palabras y caracteres.

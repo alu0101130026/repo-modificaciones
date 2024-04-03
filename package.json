@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "tsc-watch --onSuccess \"node dist/semana9/main.js\" ",
+    "start": "tsc-watch --onSuccess \"node dist/semana10/server.js\" ",
     "doc": "typedoc",
     "coverage": "c8 npm test && c8 report --reporter=lcov",
     "test": "mocha"

@@ -1,10 +1,4 @@
 {
-  "entryPoints": [
-    "./src/semana7/adapter.ts",
-    "./src/semana7/arithmeticable.ts",
-    "./src/semana7/complex.ts",
-    "./src/semana7/rational.ts"
-  ],
-
+  "entryPoints": ["./src/semana10/server.ts", "./src/semana10/client.ts"],
   "out": "./docs"
 }
